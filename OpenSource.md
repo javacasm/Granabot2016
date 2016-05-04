@@ -1,6 +1,6 @@
-# Robótica Educativa
+# ¿Por qué enseñar robótica hoy en día?
 
-## SmartLiving Marbella 2016
+## Granabot 2016
 
 ![CC](./images/Licencia CC.png)
 
